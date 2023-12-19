@@ -1,0 +1,23 @@
+{
+    "weapon": {
+      "name": "Quantum Annihilator",
+      "type": "Sci-Fi Nuclear Rifle",
+      "manufacturer": "Galactic Armaments Corporation",
+      "model": "QAR-9000",
+      "caliber": "Quantum Fusion",
+      "energy_source": "Anti-Matter Reactor",
+      "fire_rate": "1200 rounds per minute",
+      "damage": "Devastating",
+      "range": "500 meters",
+      "ammo_type": "Quantum Cells",
+      "magazine_capacity": 50,
+      "safety_features": ["Biometric Lock", "Voice Recognition"],
+      "special_features": [
+        "Photon Burst Mode",
+        "Invisibility Shield",
+        "Target Tracking System"
+      ],
+      "description": "The Quantum Annihilator is a state-of-the-art sci-fi nuclear rifle designed for annihilating enemy targets with precision and power. Powered by an Anti-Matter Reactor, it fires Quantum Fusion rounds at an incredible rate, causing devastating damage to anything in its path. Equipped with advanced safety and special features, it ensures both effectiveness and user security on the battlefield."
+    }
+  }
+  

@@ -1,0 +1,61 @@
+{
+    "weapon": {
+      "name": "Quantum Nova Eviscerator",
+      "type": "Sci-Fi Nuclear Rifle",
+      "manufacturer": "Hyperion Dynamics",
+      "model": "QNE-9000X",
+      "caliber": "Quantum Fusion",
+      "energy_source": "Singularity Reactor",
+      "fire_rate": "1500 rounds per minute",
+      "damage": "Cataclysmic",
+      "range": "800 meters",
+      "ammo_type": "Quantum Cells",
+      "magazine_capacity": 75,
+      "safety_features": ["Biometric Lock", "Voice Recognition", "Quantum Encryption"],
+      "special_features": [
+        "Quantum Singularity Burst",
+        "Cloak of Shadows",
+        "Neural Targeting System",
+        "Time Distortion Matrix"
+      ],
+      "scope": {
+        "type": "Quantum Holographic",
+        "magnification": 12,
+        "reticle": "Quantum Matrix",
+        "night_vision": true,
+        "thermal_imaging": true
+      },
+      "stock": {
+        "adjustable": true,
+        "material": "Quantum-Enhanced Titanium Alloy",
+        "recoil_reduction": true
+      },
+      "barrel": {
+        "length": "30 inches",
+        "material": "Quantum Nano-Composite",
+        "muzzle_velocity": "3500 m/s",
+        "barrel_cooling": true
+      },
+      "trigger": {
+        "type": "Quantum Precision",
+        "trigger_weight": "2.0 lbs"
+      },
+      "grip": {
+        "material": "Quantum Polymer",
+        "ergonomic_design": true
+      },
+      "accessories": [
+        {"name": "Quantum Silencer", "type": "Suppressor"},
+        {"name": "Photon Grenade Launcher", "type": "Underbarrel Attachment"},
+        {"name": "Energy Shield Generator", "type": "Personal Shield"},
+        {"name": "Quantum Capacitor", "type": "Power Enhancement"},
+        {"name": "Dimensional Rift Stabilizer", "type": "Interdimensional Ammo Resupply"}
+      ],
+      "modifications": [
+        {"name": "Quantum Cascade Amplifier", "effect": "Increased Damage"},
+        {"name": "Chrono-Disruptor Matrix", "effect": "Temporal Bullet Distortion"}
+      ],
+      "description": "The Quantum Nova Eviscerator, manufactured by Hyperion Dynamics, stands as the epitome of sci-fi nuclear rifles. Powered by a Singularity Reactor, it unleashes cataclysmic devastation with its Quantum Fusion rounds at a rapid rate of 1500 rounds per minute. Equipped with advanced safety and special features, including a Quantum Holographic scope with night vision and thermal imaging, an adjustable Quantum-Enhanced Titanium Alloy stock, and a Quantum Nano-Composite barrel with cooling capability, the Quantum Nova Eviscerator ensures unparalleled accuracy and power. Additional accessories like the Dimensional Rift Stabilizer and modifications like the Chrono-Disruptor Matrix provide versatility for various combat scenarios, making it the weapon of choice for elite warriors across the galaxies."
+    }
+  }
+  

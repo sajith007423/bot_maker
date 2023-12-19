@@ -1,0 +1,36 @@
+{
+  "weapon": {
+    "name": "Quantum Annihilator Mk. IV",
+    "type": "Sci-Fi Nuclear Rifle",
+    "manufacturer": "Galactic Armaments Corporation",
+    "model": "QAMK4-9000",
+    "caliber": "Quantum Fusion",
+    "energy_source": "Anti-Matter Reactor",
+    "fire_rate": "1200 rounds per minute",
+    "damage": "Devastating",
+    "range": "500 meters",
+    "ammo_type": "Quantum Cells",
+    "magazine_capacity": 50,
+    "safety_features": ["Biometric Lock", "Voice Recognition", "Quantum Encryption"],
+    "special_features": [
+      "Photon Burst Mode",
+      "Invisibility Shield",
+      "Target Tracking System",
+      "Time-Dilation Stabilizer"
+    ],
+    "scope": {
+      "type": "Quantum Holographic",
+      "magnification": 10,
+      "reticle": "Plasma Crosshair"
+    },
+    "stock": {
+      "adjustable": true,
+      "material": "Neutronium Alloy"
+    },
+    "barrel": {
+      "length": "24 inches",
+      "material": "Quantum-infused Carbon Nanotubes"
+    },
+    "description": "The Quantum Annihilator Mk. IV is the pinnacle of sci-fi weaponry, designed for annihilating enemy targets with unparalleled precision and power. Powered by an Anti-Matter Reactor, it fires Quantum Fusion rounds at an incredible rate, causing devastating damage to anything in its path. Equipped with advanced safety and special features, it ensures both effectiveness and user security on the battlefield. The addition of a Quantum Holographic scope and a Neutronium Alloy stock further enhances its accuracy and stability, making it the ultimate choice for elite soldiers in the galaxy."
+  }
+}
