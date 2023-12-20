@@ -1,0 +1,14 @@
+huggingface-hub
+sentencepiece
+tqdm
+transformers
+pydantic
+langchain
+python-dotenv
+faiss-cpu
+sentence-transformers
+pypdf
+streamlit
+streamlit_chat
+streamlit_authenticator
+faiss-cpu
