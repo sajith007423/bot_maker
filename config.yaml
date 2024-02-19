@@ -1,0 +1,43 @@
+bots:
+  sajith:
+  - gemstone bot
+  sampleuser:
+  - sampleuserbot
+  vishnu:
+  - kuthampully bot
+  - kuthampully bot 2
+  - kuthampully bot 3
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    haseeb:
+      email: haseeb@gmail.com
+      logged_in: false
+      name: haseeb bubuchara
+      password: $2b$12$6iIzS5y1HqzPypW18bLRkeH6M3.VTJAgnv85JnwvZY14d8rptxqCW
+    jyothish:
+      email: jyothish.i.2003@gmail.com
+      logged_in: false
+      name: jyothish inklampurath
+      password: $2b$12$BdUiSqMU4o/pT0Rhthnnt.lYuAX.7MkDTC9OkmY3WlQQsMdAIBEF2
+    sajith:
+      email: sajith.kp.2002@gmail.com
+      logged_in: false
+      name: sajith kuttipuravan
+      password: $2b$12$KIl30bCL2bByW5XmE8CmM.a6U88tuCJGx6ZmD9WE5kyaFd/hMraOu
+    shihad:
+      email: shihad2002@gmail.com
+      logged_in: false
+      name: shihad mangalasseri
+      password: $2b$12$dspu3enREivs50shyVclveHbmYWasrnAJoewX.LkaPCWzY4qLbbJS
+    vishnu:
+      email: vishnu@gmail.com
+      logged_in: false
+      name: vishnu siva
+      password: $2b$12$dOdMXYfoQMfwB80tfHHOEuEBJMIbAIBA3MtN55cnMNUGOFH5A2WVS
+preauthorized:
+  emails:
+  - melsby@gmail.com
